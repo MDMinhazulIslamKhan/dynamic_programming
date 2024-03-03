@@ -50,7 +50,6 @@ int main()
                 v.push_back(j);
             }
         }
-        cout << endl;
     }
     int ans = INT_MAX;
     for (int val : v)
