@@ -42,7 +42,7 @@ int main()
                 }
             }
         }
-        if (dp[n][sum] = true)
+        if (dp[n][sum] == true)
         {
             cout << "YES";
         }
